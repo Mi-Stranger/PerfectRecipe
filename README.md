@@ -1,1 +1,3 @@
 # PerfectRecipe
+
+I am just trying to understand the Github and finish my homework... We will see how successfull i will be...
